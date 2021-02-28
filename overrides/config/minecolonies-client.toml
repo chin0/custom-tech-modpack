@@ -1,0 +1,11 @@
+
+#All configuration items related to the core gameplay
+[gameplay]
+	#Disable citizen voices. [Default: true]
+	disablecitizenvoices = true
+
+#All configurations related to pathfinding
+[pathfinding]
+	#Show pathfinding paths (might be laggy). [Default: false]
+	pathfindingdebugdraw = false
+

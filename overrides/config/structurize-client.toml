@@ -1,0 +1,6 @@
+#Excludes entities from blueprint rendering if they can't load clientside. If you are going to add a "minecraft" entity or you believe it's our fault that an entity couldn't be set up, please make an issue at our GitHub and add the stacktrace to it.
+excludeEntities = []
+#Sets the maximum number of parsed GUI window files to be stored for quick loading.
+#Range: 0 ~ 100
+windowCacheCap = 12
+

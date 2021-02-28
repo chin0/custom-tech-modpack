@@ -1,0 +1,29 @@
+{
+  "minecraft": {
+    "version": "1.16.5",
+    "modLoaders": [
+      {
+        "id": "forge-36.0.42",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "tech",
+  "version": "v1",
+  "author": "",
+  "files": [
+    {
+      "projectID": 313970,
+      "fileID": 3095843,
+      "required": true
+    },
+    {
+      "projectID": 382216,
+      "fileID": 3157757,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
